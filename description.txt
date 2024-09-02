@@ -1,3 +1,6 @@
-I got permission from Nevilisco to turn their resource packs into a mod since they wanted to do so but don't know how at the moment, all sprite credits go 100% entirely towards them and not me. 
+The Dolla Tree Kaisen mod was originally a texture pack for vanilla Terraria authored by Nevilsico Shard which changed the looks of armor and accessories to look like JJK related items. However, given their permission, I (blinkkus) have turned it into a fully functioning mod.
+This mod adds:
+- 14 Vanity Armor Sets
+- 5 Vanity Accessories
 
 You may find the original texture pack here by Nevilisco Shard here: https://steamcommunity.com/sharedfiles/filedetails/?id=3286355648
