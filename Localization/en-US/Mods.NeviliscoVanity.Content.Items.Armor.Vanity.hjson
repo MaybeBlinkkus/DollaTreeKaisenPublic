@@ -1,0 +1,144 @@
+BlindfoldGojosHair: {
+	DisplayName: Blindfold Gojo's Hair
+	Tooltip: ""
+}
+
+GojosHair: {
+	DisplayName: Gojo's Hair
+	Tooltip: ""
+}
+
+GojosPants: {
+	DisplayName: Gojo's Pants
+	Tooltip: ""
+}
+
+GojosShirt: {
+	DisplayName: Gojo's Shirt
+	Tooltip: ""
+}
+
+InosBeanie: {
+	DisplayName: Ino's Beanie
+	Tooltip: ""
+}
+
+InosHair: {
+	DisplayName: Ino's Hair
+	Tooltip: ""
+}
+
+InosPants: {
+	DisplayName: Ino's Pants
+	Tooltip: ""
+}
+
+InosShiestyHelmet: {
+	DisplayName: Ino's Shiesty (Helmet)
+	Tooltip: Mask of the Shiesty Sorcerer
+}
+
+InosShirt: {
+	DisplayName: Ino's Shirt
+	Tooltip: ""
+}
+
+PastGetosHair: {
+	DisplayName: Past Geto's Hair
+	Tooltip: ""
+}
+
+PastGetosPants: {
+	DisplayName: Past Geto's Pants
+	Tooltip: ""
+}
+
+PastGetosShirt: {
+	DisplayName: Past Geto's Shirt
+	Tooltip: ""
+}
+
+PastGojosHair: {
+	DisplayName: Past Gojo's Hair
+	Tooltip: Younger Gojo's hair.
+}
+
+PastGojosPants: {
+	DisplayName: Past Gojo's Pants
+	Tooltip: Jujutsu High pants.
+}
+
+PastGojosShirt: {
+	DisplayName: Past Gojo's Shirt
+	Tooltip: Jujutsu High shirt.
+}
+
+SukunasHair: {
+	DisplayName: Sukuna's Hair
+	Tooltip: ""
+}
+
+SukunasPants: {
+	DisplayName: Sukuna's Pants
+	Tooltip: ""
+}
+
+SukunasShirt: {
+	DisplayName: Sukuna's Shirt
+	Tooltip: ""
+}
+
+TojisHair: {
+	DisplayName: Toji's Hair
+	Tooltip: ""
+}
+
+TojisPants: {
+	DisplayName: Toji's Pants
+	Tooltip: ""
+}
+
+TojisShirt: {
+	DisplayName: Toji's Shirt
+	Tooltip: ""
+}
+
+TrueSukanaBody: {
+	DisplayName: True Sukana Body
+	Tooltip: ""
+}
+
+TrueSukanaHair: {
+	DisplayName: True Sukana Hair
+	Tooltip: ""
+}
+
+TrueSukanaLegs: {
+	DisplayName: True Sukana Legs
+	Tooltip: ""
+}
+
+YoungYutasHair: {
+	DisplayName: Young Yuta's Hair
+	Tooltip: ""
+}
+
+YujikunaHair: {
+	DisplayName: Yujikuna Hair
+	Tooltip: ""
+}
+
+YutasHair: {
+	DisplayName: Yuta's Hair
+	Tooltip: Daddy Yuta
+}
+
+YutasPants: {
+	DisplayName: Yuta's Pants
+	Tooltip: Jeans tucked into white sneakers.
+}
+
+YutasShirt: {
+	DisplayName: Yuta's Shirt
+	Tooltip: Loose white uniform jacket
+}

@@ -1,0 +1,3 @@
+displayName = Dolla Tree Kaisen (Nevilsico Shard's JJK Vanity)
+author = Blinkkus and Nevilsico Shard
+version = 1.0.1
